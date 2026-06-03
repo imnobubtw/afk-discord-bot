@@ -1,0 +1,14 @@
+{
+  "name": "afk-vc-bots",
+  "version": "1.0.0",
+  "description": "AFK Voice Channel Bots (multiple instances support)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "@discordjs/voice": "^0.17.0"
+  }
+}

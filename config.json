@@ -1,0 +1,14 @@
+{
+  "guildId": "YOUR_GUILD_ID",
+  "voiceChannelId": "YOUR_VOICE_CHANNEL_ID",
+  "bots": [
+    {
+      "token": "BOT_TOKEN_1",
+      "name": "AFK-Bot-1"
+    },
+    {
+      "token": "BOT_TOKEN_2",
+      "name": "AFK-Bot-2"
+    }
+  ]
+}
